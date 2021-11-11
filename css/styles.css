@@ -11601,9 +11601,11 @@ body {
     padding: 0;
   }
   .masthead h1, .masthead .h1 {
-    font-size: 3.3rem;
+    font-size: 1.8rem;
     line-height: 6.5rem;
     letter-spacing: 0.8rem;
+    position:relative;
+    top:122px;
   }
   .masthead h2, .masthead .h2 {
     max-width: 30rem;
